@@ -1,4 +1,4 @@
-Computer science and biology student at Northwestern University interested in pursuing SWE / bioinformatics.
+Computer science student at Northwestern University interested in pursuing SWE.
 
 Contact: stevengu2024@u.northwestern.edu
 
