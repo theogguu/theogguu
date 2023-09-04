@@ -1,4 +1,4 @@
-Computer science student at Northwestern University interested in pursuing SWE.
+Computer science student at Northwestern University. SWE Intern at New Muses Project.
 
 Contact: stevengu2024@u.northwestern.edu
 
