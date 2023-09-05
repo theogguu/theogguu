@@ -1,6 +1,6 @@
 Computer science student at Northwestern University. SWE Intern at [New Muses Project](https://www.newmusesproject.com/about).
 
-steven-gu.com
+[steven-gu.com](https://www.steven-gu.com)
 
 <!---
 - 👋 Hi, I’m @theogguu, or Steven!
