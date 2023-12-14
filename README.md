@@ -1,4 +1,4 @@
-Computer science student at Northwestern University. SWE Intern at [New Muses Project](https://www.newmusesproject.com/about).
+Biology and Computer Science BA/MS student at Northwestern University.
 
 [steven-gu.com](https://www.steven-gu.com)
 
