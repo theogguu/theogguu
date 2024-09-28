@@ -1,4 +1,4 @@
-Biology and Computer Science BA/MS student at Northwestern University.
+hi check out my website!
 
 [steven-gu.com](https://www.steven-gu.com)
 
